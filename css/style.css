@@ -31,6 +31,9 @@ body {
   position: relative;
   transition: all 00.5s linear;
 }
+.container.container.show-nav .circle {
+  transform: rotate(-75deg);
+}
 .circle button {
   position: absolute;
   top: 50%;
